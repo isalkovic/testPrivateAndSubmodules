@@ -1,7 +1,0 @@
-[submodule "aceSubbmoduleAPP1-HTTPecho"]
-	path = aceSubbmoduleAPP1-HTTPecho
-	url = https://github.com/isalkovic/aceSubbmoduleAPP1-HTTPecho.git
-[submodule "aceSubbmoduleAPP2-Database"]
-	path = aceSubbmoduleAPP2-Database
-	url = https://github.com/isalkovic/aceSubbmoduleAPP2-Database.git
-	
